@@ -1,0 +1,12 @@
+{
+    "username": "username",
+    "password": "password",
+    "notify_emails": [
+        "admin@localhost"
+    ],
+    "smtp_server": "smtp.gmail.com",
+    "smtp_port": 587,
+    "smtp_user": "smtp_user (gmail)",
+    "smtp_password": "smtp app password (GSGS cara mebuat app password gmail)",
+    "smtp_tls": false
+}
